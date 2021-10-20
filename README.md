@@ -12,7 +12,7 @@ The executable file (Fantasm.exe) should be inside of the zip. If it doesn't wor
 
 -- GAMEPLAY --
 
-You control the little open-eyed laughing-crying emoji. You wield a fan made of touched spaghet and OK hand emojis. (I was very funny back in high school.) Your objective is to reach the end of the level, as marked by black-and-white checkerboard tiles. But the path is swarming with aggressive, nondescript blobs and slightly more descript bosses that want to shoot you dead. But your fan, while largely a melee weapon, can also create a reflective shield that redirects bullets towards the nearest foe. Dodge, reflect, slash, and do whatever it takes to cut through to the end.
+You control the little open-eyed laughing-crying emoji. You wield a fan made of touched spaghet and OK hand emojis. (I was very funny back in high school.) Your objective is to reach the end of the level, as marked by black-and-white checkerboard tiles. But the path is swarming with aggressive, nondescript blobs and slightly more descript bosses that want to shoot you dead. Your fan, while largely a melee weapon, can also create a reflective shield that redirects bullets towards the nearest foe. Dodge, reflect, slash, and do whatever it takes to cut through to the end.
 
 There are three levels. I never programmed an ending, so when you beat the third you loop back to the first. If you run out of health, you'll start at the beginning of the level you're on. You have only three hit points, but each time you defeat a wave of regular enemies you return to full health, and each time you defeat a boss phase (each boss has 4 phases, each with different shot patterns) you regain 1 hit point. 
 
